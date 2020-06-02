@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "rick-and-morty-sapper",
+  "description": "Es un sitio web donde puedes ver todo la informacion de los personajes de Rick and Morty.",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
