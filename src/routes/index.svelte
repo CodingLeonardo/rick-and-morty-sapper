@@ -28,17 +28,27 @@
     border-radius: 0.3em;
     overflow: hidden;
     background: white;
+    transition: 0.42s ease;
+    box-shadow: 0 0 0.8em 0 rgba(0, 0, 0, 0.5);
   }
   .Character a {
     flex-direction: inherit;
     display: inherit;
     text-decoration: none;
   }
+  .Character:hover {
+    transform: scale(1.12);
+  }
+  .Character:active {
+    transform: scale(0.9);
+  }
   .Character-image {
     display: flex;
     width: 100%;
+    overflow: hidden;
   }
   .Character-image img {
+    transition: 0.5s ease;
     width: 100%;
   }
   .Character-descripcion {
