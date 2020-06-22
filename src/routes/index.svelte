@@ -15,7 +15,7 @@
 <style>
   .Characters {
     padding: 2em 0;
-    background: #333;
+    background: rgb(32, 35, 41);
   }
 </style>
 
