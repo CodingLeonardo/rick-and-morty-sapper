@@ -17,10 +17,8 @@
 <style>
   .Characters-container {
     display: grid;
-    width: 80%;
-    margin: 0 auto;
     gap: 1em;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
   }
   .Character {
     display: flex;
