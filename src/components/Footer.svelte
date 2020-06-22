@@ -8,10 +8,10 @@
     justify-content: space-between;
     align-items: center;
     height: 4em;
-    background: #dadada;
+    background: white;
   }
   footer p {
-    font-weight: 500;
+    font-weight: 400;
     font-size: 1.3em;
     margin: 0;
   }

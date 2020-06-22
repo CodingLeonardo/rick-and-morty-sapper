@@ -7,8 +7,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #dadada;
-    height: 5em;
+    background: white;
+    height: 8em;
   }
   header a {
     display: block;
